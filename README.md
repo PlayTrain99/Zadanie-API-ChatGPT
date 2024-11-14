@@ -12,7 +12,7 @@ W pliku szablon.html znajdują się style i skrypty do podglądu wygenerowanej t
 
 ## Instalacja
 - Upewnij się, że masz zainstalowane środowisko Python (w moim przypadku 3.11.4).
-- Zainstaluj bibliotekę openai, aby połączyć się z API: pip install openai
+- Zainstaluj bibliotekę openai, aby połączyć się z API: `pip install openai`
 
 ## Klucz API OpenAI:
 - Wymagany jest klucz API, który można uzyskać, rejestrując się na stronie OpenAI.
@@ -20,11 +20,11 @@ W pliku szablon.html znajdują się style i skrypty do podglądu wygenerowanej t
 
 ## Uruchomienie aplikacji:
 - Stwórz plik tekstowy artykul.txt w katalogu projektu, który będzie zawierał treść artykułu do przetworzenia.
-- Aby wygenerować strukturę HTML, uruchom skrypt (w moim przyadku plik nazywa się "app.py") wpisując w terminalu: python app.py
+- Aby wygenerować strukturę HTML, uruchom skrypt (w moim przyadku plik nazywa się "app.py") wpisując w terminalu: `python app.py`
 - Po uruchomieniu skryptu należy chwilę poczekać. Plik artykul.html z wygenerowanym kodem HTML zostanie utworzony automatycznie (jeśli jest już stworzony nadpisze się).
  
 ## Podgląd wygenerowanego artykułu:
-Aby wyświetlić artykuł z użyciem stylów i animacji, otwórz plik podglad.html w przeglądarce. Można również skorzystać z pliku szablon.html i wkleić wygenerowany kod HTML do sekcji `<body>`.
+Aby wyświetlić artykuł z użyciem stylów i animacji, otwórz plik podglad.html w przeglądarce. Można również skorzystać z pliku szablon.html i wkleić wygenerowany kod HTML do sekcji <body>.
 
 # Ciekawostki
 
