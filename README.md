@@ -10,6 +10,8 @@ Aplikacja jest narzędziem do przetwarzania tekstu artykułu na odpowiednią str
    
 W pliku szablon.html znajdują się style i skrypty do podglądu wygenerowanej treści, a podglad.html pozwala na pełny podgląd artykułu.
 
+Na początku pobierz wszystkie elementy z repozytorium, następnie stwórz folder (nazwa nie ma zaczenia) i umieść je w nim. Następnie uruchom środowisko programistyczne, np. Visual Studio Code, i otwórz w nim utworzony folder. Zaleca się również instalację wirtualnego środowiska, co pozwoli na lepsze zarządzanie zależnościami projektu.
+
 ## Instalacja
 - Upewnij się, że masz zainstalowane środowisko Python (w moim przypadku 3.11.4).
 - Zainstaluj bibliotekę openai, aby połączyć się z API: `pip install openai`
