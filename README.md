@@ -26,7 +26,7 @@ Na początku pobierz wszystkie elementy z repozytorium, następnie stwórz folde
 - Po uruchomieniu skryptu należy chwilę poczekać. Plik artykul.html z wygenerowanym kodem HTML zostanie utworzony automatycznie (jeśli jest już stworzony nadpisze się).
  
 ## Podgląd wygenerowanego artykułu:
-Aby wyświetlić artykuł z użyciem stylów i animacji, otwórz plik podglad.html w przeglądarce. Można również skorzystać z pliku szablon.html i wkleić wygenerowany kod HTML do sekcji <body>.
+Aby wyświetlić artykuł z użyciem stylów i animacji, otwórz plik podglad.html w przeglądarce. Można również skorzystać z pliku szablon.html i wkleić wygenerowany kod HTML do sekcji "body".
 
 # Ciekawostki
 
