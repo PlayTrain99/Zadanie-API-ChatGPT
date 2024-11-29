@@ -35,6 +35,7 @@ completion = client.chat.completions.create(
     messages=[
         {"role": "user", "content": prompt}
     ],
+    temperature=0.6
 )
 
 # Wygenerowany kod HTML
